@@ -1,0 +1,33 @@
+{
+ "latest": "0.5.22",
+ "notes": "What's new in 0.5.22\n\u2022 Fix: founding your town by marching the settlers there no longer throws away the wagon's wood, stone and food that evening.\n\u2022 Fix: workers come at once. A building you place gets its workers from the town's idle people within the hour and starts working the same day; \"+\", \"-\", \"Stop\" and \"All\" act at once too (before, everything waited for the next dawn).",
+ "files": [
+  {
+   "name": "Ardenmark.exe",
+   "size": 109268480,
+   "sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562",
+   "url": "https://github.com/rokheine91-bot/ardenmark-updates",
+   "parts": [
+    "https://raw.githubusercontent.com/rokheine91-bot/ardenmark-updates/main/files/0.5.22/Ardenmark.exe.part00",
+    "https://raw.githubusercontent.com/rokheine91-bot/ardenmark-updates/main/files/0.5.22/Ardenmark.exe.part01"
+   ]
+  },
+  {
+   "name": "Ardenmark.pck",
+   "size": 168008120,
+   "sha256": "a12181c5b0c9249fa4e60ee68fb4ace616513167108341ca55d031b4daac537a",
+   "url": "https://github.com/rokheine91-bot/ardenmark-updates",
+   "parts": [
+    "https://raw.githubusercontent.com/rokheine91-bot/ardenmark-updates/main/files/0.5.22/Ardenmark.pck.part00",
+    "https://raw.githubusercontent.com/rokheine91-bot/ardenmark-updates/main/files/0.5.22/Ardenmark.pck.part01"
+   ]
+  },
+  {
+   "name": "Ardenmark-Setup.exe",
+   "size": 3797707,
+   "sha256": "6f180104be4ef8bfb449023c7371391db4ce5a554c2f5869f00ee0042ccc87e8",
+   "url": "https://raw.githubusercontent.com/rokheine91-bot/ardenmark-updates/main/installer/Ardenmark-Setup.exe"
+  }
+ ],
+ "sig": "1ACKXz0YLu3RW8GFVFZig6xG7GMrdbt+7lyh2MSC7oEmASa8l04zD6c6fy4Em7GBZcJD6JGVNobdwHVUsju0Ag=="
+}
